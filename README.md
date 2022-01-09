@@ -1,7 +1,8 @@
 # 🐹 Browon's Git Page 😻
 ***
 ### Thanks for visiting my page! 
-I'm so happy to introduce myself to you. 😊
+I'm so happy to introduce myself to you. 😊   
+You can read this README in korean at this <b><a href="">page</a></b>. 
 ***
 ### Preferred Programming Languages
 * Python 
@@ -30,4 +31,12 @@ I'm so happy to introduce myself to you. 😊
 
 If there is a more easy or simple way(e.g. Language, Framework, Tools, Programs) to make a program, I am always ready to learn them.
 ***
-### Field I'm interested in
+### Field of interest
+* I'm interested in web services, both backend ,and frontend. 
+* functional programming and object-oriented programming paradigm.
+* Automata and Computational Logic.
+* Statistics.
+#### Below is my Notion Page that contains what I'm studying or learning. But those were written in Korean... 
+<a href="https://browon.notion.site/TECH-Note-af4fd053c5874e14ba69aaa3c9d67d42">✨Notion Links✨</a>
+***
+ 

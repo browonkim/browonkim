@@ -2,7 +2,7 @@
 ***
 ### Thanks for visiting my page! 
 I'm so happy to introduce myself to you. 😊   
-You can read this README in orean at this <b><a href="">page</a></b>. 
+You can read this README in Korean at this <b><a href="">page</a></b>. 
 ***
 ### Preferred Programming Languages
 * Python 
